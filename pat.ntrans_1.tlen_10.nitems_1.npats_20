@@ -1,0 +1,27 @@
+Number of transactions in database = 1000
+Average transaction length = 10
+Number of items = 1000
+Large Itemsets:
+	Number of patterns = 20
+	Average length of pattern = 4
+	Correlation between consecutive patterns = 0.25
+	Average confidence in a rule = 0.75
+	Variation in the confidence = 0.1
+
+Items:
+553  5.95
+571  5.12
+592  6.7
+709  5.27
+
+ItemSets:
+  1.89  0.629  506
+  1.43  0.673  634 998 629 480 950
+  1.76  0.628  443 470 307 723 973
+  5.03    0.8  523 451 487 488 111 3
+   1.3  0.782  628 729 598
+  1.55  0.874  628 26 570 238
+  1.33  0.647  402 778
+  1.18  0.706  738 647 764
+  1.39  0.557  764 595
+
